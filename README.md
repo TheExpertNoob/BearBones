@@ -17,8 +17,9 @@
 ## ldn_mitm
 ## MissionControl
 ## nx-ovlloader
-## Ultrahand Overlay (ZL+ZR+DDOWN)
+## Ultrahand Overlay
+    (ZL+ZR+DDOWN)
 ## NXThemesInstaller
-## 90DNS Tsster
+## 90DNS Tester
 ## DBI 810
 ## Tinfoil (Install SD:/NSP/Tinfoil.nsp with DBI)
